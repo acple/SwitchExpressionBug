@@ -13,7 +13,7 @@ namespace SwitchExpressionBug
             {
                 (EnumA.A, EnumB.X) => "AX",
                 (_, EnumB.Y) => "_Y",
-                (EnumA.B, EnumB.X) => "BZ",
+                (EnumA.B, EnumB.X) => "BX",
                 (_, EnumB.Z) => "_Z",
                 (_, _) => throw new ArgumentException()
             };
