@@ -10,7 +10,7 @@
 ========== Rebuild All: 0 succeeded, 1 failed, 0 skipped ==========
 ```
 
-## .NET Core SDK 5.0.100-preview.6.20318.15
+## .NET 5.0 SDK 5.0.100-preview.6.20318.15
 
 ```
 $ dotnet build
