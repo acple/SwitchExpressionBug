@@ -1,6 +1,6 @@
 # SwitchExpressionBug
 
-## Visual Studio 2019 Preview 3.1
+## Visual Studio 2019 Preview 3.1/4.0
 
 ```
 1>------ Rebuild All started: Project: SwitchExpressionBug, Configuration: Debug Any CPU ------
